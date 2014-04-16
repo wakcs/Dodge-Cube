@@ -13,16 +13,16 @@ public class Movement : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-        transform.Translate(Vector3.forward * movementSpeed * Time.deltaTime);
+        transform.Translate(Vector3.up * movementSpeed * Time.deltaTime);
 
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
             transform.Translate(Vector3.left * movementSpeed * Time.deltaTime);
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
             transform.Translate(Vector3.right * movementSpeed * Time.deltaTime);
         Vector3 pos = transform.position;
-        if (pos.z >= 40)
+        if (pos.y >= 40)
         {
-            pos.z = 0;
+            pos.y = 0;
             transform.position = pos;
         }
 

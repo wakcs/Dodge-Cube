@@ -14,7 +14,7 @@ public class FollowObject : MonoBehaviour {
 	// Update is called once per frame
 	void LateUpdate () {
         transform.position = target.position;
-        transform.position += Vector3.up * height;
+        transform.position += Vector3.back * height;
         Vector3 pos = transform.position;
         pos.x = 0;
         transform.position = pos;

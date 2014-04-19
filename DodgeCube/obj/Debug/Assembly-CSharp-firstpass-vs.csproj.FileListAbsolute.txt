@@ -1,0 +1,11 @@
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\UnityEditor.dll
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\UnityEngine.dll
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\Mono.Cecil.dll
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\nunit.framework.dll
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\Unity.DataContract.dll
+D:\GitHub\Dodge-Cube\DodgeCube\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\GitHub\Dodge-Cube\DodgeCube\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\GitHub\Dodge-Cube\DodgeCube\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\GitHub\Dodge-Cube\DodgeCube\obj\Debug\Assembly-CSharp-firstpass.pdb

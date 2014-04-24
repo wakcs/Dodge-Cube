@@ -13,13 +13,6 @@ What is this game?
 Dodge Cube is a very basic game, you play as a ball rolling about, and need to dodge those cubes (which are also called crates)
 
 
-What are these folders?
-=======================
-The folder called "DodgeCube" is the project itself, uncompiled
-
-The folder called "Play Dodge Cube" is the game folder, with the game exe file, and it's required data
-
-
 How To install?
 ===============
 Copy the "Play Dodge Cube" folder to your prefered location, and run PlayDodgeCube.exe
